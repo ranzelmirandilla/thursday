@@ -1,0 +1,15 @@
+a:link{
+    color: black;
+}
+
+a:visited{
+    color: blanchedalmond;
+}
+
+a:selected{
+    color: coral;
+}
+
+a:hover{
+    color: darkolivegreen;
+}
